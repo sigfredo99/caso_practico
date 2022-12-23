@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Depósito de Recargas | <?php echo $title; ?></title>
     <!-- CSS only -->
